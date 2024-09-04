@@ -1,0 +1,14 @@
+C:\ITProjects\.Net\Notes\DataAccess\bin\Debug\net8.0\DataAccess.deps.json
+C:\ITProjects\.Net\Notes\DataAccess\bin\Debug\net8.0\DataAccess.runtimeconfig.json
+C:\ITProjects\.Net\Notes\DataAccess\bin\Debug\net8.0\DataAccess.dll
+C:\ITProjects\.Net\Notes\DataAccess\bin\Debug\net8.0\DataAccess.pdb
+C:\ITProjects\.Net\Notes\DataAccess\obj\Debug\net8.0\DataAccess.csproj.AssemblyReference.cache
+C:\ITProjects\.Net\Notes\DataAccess\obj\Debug\net8.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\ITProjects\.Net\Notes\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfoInputs.cache
+C:\ITProjects\.Net\Notes\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfo.cs
+C:\ITProjects\.Net\Notes\DataAccess\obj\Debug\net8.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\ITProjects\.Net\Notes\DataAccess\obj\Debug\net8.0\DataAccess.dll
+C:\ITProjects\.Net\Notes\DataAccess\obj\Debug\net8.0\refint\DataAccess.dll
+C:\ITProjects\.Net\Notes\DataAccess\obj\Debug\net8.0\DataAccess.pdb
+C:\ITProjects\.Net\Notes\DataAccess\obj\Debug\net8.0\DataAccess.genruntimeconfig.cache
+C:\ITProjects\.Net\Notes\DataAccess\obj\Debug\net8.0\ref\DataAccess.dll

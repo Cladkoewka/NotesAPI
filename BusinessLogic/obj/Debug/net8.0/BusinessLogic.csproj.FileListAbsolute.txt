@@ -1,0 +1,15 @@
+C:\ITProjects\.Net\Notes\BusinessLogic\bin\Debug\net8.0\BusinessLogic.deps.json
+C:\ITProjects\.Net\Notes\BusinessLogic\bin\Debug\net8.0\BusinessLogic.dll
+C:\ITProjects\.Net\Notes\BusinessLogic\bin\Debug\net8.0\BusinessLogic.pdb
+C:\ITProjects\.Net\Notes\BusinessLogic\bin\Debug\net8.0\DataAccess.dll
+C:\ITProjects\.Net\Notes\BusinessLogic\bin\Debug\net8.0\DataAccess.pdb
+C:\ITProjects\.Net\Notes\BusinessLogic\obj\Debug\net8.0\BusinessLogic.csproj.AssemblyReference.cache
+C:\ITProjects\.Net\Notes\BusinessLogic\obj\Debug\net8.0\BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\ITProjects\.Net\Notes\BusinessLogic\obj\Debug\net8.0\BusinessLogic.AssemblyInfoInputs.cache
+C:\ITProjects\.Net\Notes\BusinessLogic\obj\Debug\net8.0\BusinessLogic.AssemblyInfo.cs
+C:\ITProjects\.Net\Notes\BusinessLogic\obj\Debug\net8.0\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\ITProjects\.Net\Notes\BusinessLogic\obj\Debug\net8.0\Business.CF5D6E35.Up2Date
+C:\ITProjects\.Net\Notes\BusinessLogic\obj\Debug\net8.0\BusinessLogic.dll
+C:\ITProjects\.Net\Notes\BusinessLogic\obj\Debug\net8.0\refint\BusinessLogic.dll
+C:\ITProjects\.Net\Notes\BusinessLogic\obj\Debug\net8.0\BusinessLogic.pdb
+C:\ITProjects\.Net\Notes\BusinessLogic\obj\Debug\net8.0\ref\BusinessLogic.dll
